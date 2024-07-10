@@ -1,14 +1,21 @@
 {
   "name": "anime-calender",
+  "type": "module",
   "version": "1.0.0",
   "description": "A calender for anime in your watching list on mal",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "API_KEY=fd9025da2f82ecf7ae3bfe8749e27895 node index.js"
   },
   "author": "ebenezerrahul",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.19.2"
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "ical-generator": "^7.1.0",
+    "simpl.db": "^2.13.0",
+    "sqlite3": "^5.1.7"
   }
 }

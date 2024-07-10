@@ -1,0 +1,288 @@
+{
+  "title": "\"Oshi no Ko\" 2nd Season",
+  "id": "55791",
+  "res-data": {
+    "data": {
+      "Media": {
+        "id": 166531,
+        "idMal": 55791,
+        "title": {
+          "romaji": "[Oshi no Ko] 2nd Season",
+          "english": "Oshi no Ko Season 2",
+          "native": "【推しの子】第2期"
+        },
+        "nextAiringEpisode": {
+          "airingAt": 1721224800,
+          "timeUntilAiring": 599799
+        }
+      }
+    }
+  }
+}
+{
+  "title": "Tensei shitara Slime Datta Ken 3rd Season",
+  "id": "53580",
+  "res-data": {
+    "data": {
+      "Media": {
+        "id": 156822,
+        "idMal": 53580,
+        "title": {
+          "romaji": "Tensei Shitara Slime Datta Ken 3rd Season",
+          "english": "That Time I Got Reincarnated as a Slime Season 3",
+          "native": "転生したらスライムだった件 第3期"
+        },
+        "nextAiringEpisode": {
+          "airingAt": 1720792800,
+          "timeUntilAiring": 167799
+        }
+      }
+    }
+  }
+}
+{
+  "title": "Yozakura-san Chi no Daisakusen",
+  "id": "53865",
+  "res-data": {
+    "data": {
+      "Media": {
+        "id": 158898,
+        "idMal": 53865,
+        "title": {
+          "romaji": "Yozakura-san Chi no Daisakusen",
+          "english": "Mission: Yozakura Family",
+          "native": "夜桜さんちの大作戦"
+        },
+        "nextAiringEpisode": {
+          "airingAt": 1720944000,
+          "timeUntilAiring": 318999
+        }
+      }
+    }
+  }
+}
+{
+  "title": "Kami no Tou: Ouji no Kikan",
+  "id": "52635",
+  "res-data": {
+    "data": {
+      "Media": {
+        "id": 142724,
+        "idMal": null,
+        "title": {
+          "romaji": "Uchi no Ko no Tame Naraba, Ore wa Moshikashitara Maou mo Taoseru Kamo Shirenai. Bangai-hen 6: Osanai Shoujo, Aru Tabi no Hi no Asa.",
+          "english": null,
+          "native": "うちの娘の為ならば、俺はもしかしたら魔王も倒せるかもしれない。 番外編6　幼い少女、ある旅の日の朝。"
+        },
+        "nextAiringEpisode": null
+      }
+    }
+  }
+}
+{
+  "title": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
+  "id": "54744",
+  "res-data": {
+    "data": {
+      "Media": {
+        "id": 152404,
+        "idMal": 149334,
+        "title": {
+          "romaji": "Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san",
+          "english": null,
+          "native": "時々ボソッとロシア語でデレる隣のアーリャさん"
+        },
+        "nextAiringEpisode": null
+      }
+    }
+  }
+}
+{
+  "title": "Madougushi Dahliya wa Utsumukanai",
+  "id": "56449",
+  "res-data": {
+    "data": {
+      "Media": {
+        "id": 110392,
+        "idMal": 119806,
+        "title": {
+          "romaji": "Madougushi Dahlia wa Utsumukanai: Dahliya Wilts No More",
+          "english": "Magic Artisan Dahlia Wilts No More",
+          "native": "魔導具師ダリヤはうつむかない ～Dahliya Wilts No More～"
+        },
+        "nextAiringEpisode": null
+      }
+    }
+  }
+}
+{
+  "title": "Nige Jouzu no Wakagimi",
+  "id": "54724",
+  "res-data": {
+    "data": {
+      "Media": {
+        "id": 128666,
+        "idMal": 132845,
+        "title": {
+          "romaji": "Nige Jouzu no Wakagimi",
+          "english": "The Elusive Samurai",
+          "native": "逃げ上手の若君"
+        },
+        "nextAiringEpisode": null
+      }
+    }
+  }
+}
+{
+  "title": "Maougun Saikyou no Majutsushi wa Ningen datta",
+  "id": "57876",
+  "res-data": {
+    "data": {
+      "Media": {
+        "id": 112481,
+        "idMal": 121357,
+        "title": {
+          "romaji": "Maou Gun Saikyou no Majutsushi wa Ningen datta",
+          "english": null,
+          "native": "魔王軍最強の魔術師は人間だった"
+        },
+        "nextAiringEpisode": null
+      }
+    }
+  }
+}
+{
+  "title": "Boku no Hero Academia 7th Season",
+  "id": "54789",
+  "res-data": {
+    "data": {
+      "Media": {
+        "id": 163139,
+        "idMal": 54789,
+        "title": {
+          "romaji": "Boku no Hero Academia 7",
+          "english": "My Hero Academia Season 7",
+          "native": "僕のヒーローアカデミア 7"
+        },
+        "nextAiringEpisode": {
+          "airingAt": 1720859400,
+          "timeUntilAiring": 234399
+        }
+      }
+    }
+  }
+}
+{
+  "title": "Gimai Seikatsu",
+  "id": "52481",
+  "res-data": {
+    "data": {
+      "Media": {
+        "id": 126268,
+        "idMal": 133352,
+        "title": {
+          "romaji": "Gimai Seikatsu",
+          "english": "Days with My Stepsister",
+          "native": "義妹生活"
+        },
+        "nextAiringEpisode": null
+      }
+    }
+  }
+}
+{
+  "title": "Tensui no Sakuna-hime",
+  "id": "58357",
+  "res-data": {
+    "data": {
+      "Media": {
+        "id": 175868,
+        "idMal": 58357,
+        "title": {
+          "romaji": "Tensui no Sakuna-hime",
+          "english": "Sakuna: Of Rice and Ruin",
+          "native": "天穂のサクナヒメ"
+        },
+        "nextAiringEpisode": {
+          "airingAt": 1720879200,
+          "timeUntilAiring": 254199
+        }
+      }
+    }
+  }
+}
+{
+  "title": "Tsue to Tsurugi no Wistoria",
+  "id": "58059",
+  "res-data": {
+    "data": {
+      "Media": {
+        "id": 125116,
+        "idMal": 131924,
+        "title": {
+          "romaji": "Tsue to Tsurugi no Wistoria",
+          "english": "Wistoria: Wand and Sword",
+          "native": "杖と剣のウィストリア"
+        },
+        "nextAiringEpisode": null
+      }
+    }
+  }
+}
+{
+  "title": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu",
+  "id": "57380",
+  "res-data": {
+    "data": {
+      "Media": {
+        "id": 171031,
+        "idMal": 57380,
+        "title": {
+          "romaji": "Isekai Yururi Kikou: Kosodate Shinagara Boukensha Shimasu",
+          "english": "A Journey Through Another World: Raising Kids While Adventuring",
+          "native": "異世界ゆるり紀行 ～子育てしながら冒険者します～"
+        },
+        "nextAiringEpisode": {
+          "airingAt": 1720977600,
+          "timeUntilAiring": 352599
+        }
+      }
+    }
+  }
+}
+{
+  "title": "Ore wa Subete wo \"Parry\" suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai",
+  "id": "57058",
+  "res-data": {
+    "data": {
+      "Media": {
+        "id": 131049,
+        "idMal": 153622,
+        "title": {
+          "romaji": "Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai",
+          "english": "I Parry Everything: What Do You Mean I’m the Strongest? I’m Not Even an Adventurer Yet!",
+          "native": "俺は全てを【パリイ】する ～逆勘違いの世界最強は冒険者になりたい～"
+        },
+        "nextAiringEpisode": null
+      }
+    }
+  }
+}
+{
+  "title": "Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru.",
+  "id": "54913",
+  "res-data": {
+    "data": {
+      "Media": {
+        "id": 130800,
+        "idMal": 144724,
+        "title": {
+          "romaji": "Shinmai Ossan Bouken-sha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru.",
+          "english": null,
+          "native": "新米オッサン冒険者、最強パーティに死ぬほど鍛えられて無敵になる。"
+        },
+        "nextAiringEpisode": null
+      }
+    }
+  }
+}
