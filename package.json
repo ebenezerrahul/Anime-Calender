@@ -1,0 +1,14 @@
+{
+  "name": "anime-calender",
+  "version": "1.0.0",
+  "description": "A calender for anime in your watching list on mal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ebenezerrahul",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
